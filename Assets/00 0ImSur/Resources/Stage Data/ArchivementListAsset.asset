@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 745da53d00b7e4f4f882b505f3ee087e, type: 3}
+  m_Name: ArchivementListAsset
+  m_EditorClassIdentifier: 
+  mainGunsData:
+  - Sprite: {fileID: 21300000, guid: 3db17035e5ce94f29954dcfe4230ec13, type: 3}
+    text: +5000
+    coin: 5000
+    cardNumber: 1
+  - Sprite: {fileID: 21300000, guid: 3b2374fe4f07c4b99ab51dd3d20f9f43, type: 3}
+    text: +10,000
+    coin: 10000
+    cardNumber: 2
+  - Sprite: {fileID: 21300000, guid: aaea33e49e68d4231ab70c2937498a83, type: 3}
+    text: +15,000
+    coin: 15000
+    cardNumber: 3
+  - Sprite: {fileID: 21300000, guid: e4970e1d060064728a32a5131ea0c694, type: 3}
+    text: +20,000
+    coin: 20000
+    cardNumber: 4
+  - Sprite: {fileID: 21300000, guid: 10df4bd16b89248c99018695ff4ec264, type: 3}
+    text: +25,000
+    coin: 25000
+    cardNumber: 5
+  - Sprite: {fileID: 21300000, guid: 6ce51e89918af42bfa15c7af0de84e06, type: 3}
+    text: +30,000
+    coin: 30000
+    cardNumber: 6
+  - Sprite: {fileID: 688928777, guid: bdeaff6eeea944f989f1854866075dc0, type: 3}
+    text: +35,000
+    coin: 35000
+    cardNumber: 7
+  - Sprite: {fileID: 21300000, guid: f0119939fbd0940fc9303d62d452697c, type: 3}
+    text: +40,000
+    coin: 40000
+    cardNumber: 8
+  - Sprite: {fileID: 21300000, guid: e46a2aeea676545c8b2221a691b89cd6, type: 3}
+    text: +45,000
+    coin: 45000
+    cardNumber: 9
+  - Sprite: {fileID: 21300000, guid: 7ab0eb8823b1a49ad8df4264617d1d69, type: 3}
+    text: +50,000
+    coin: 50000
+    cardNumber: 10
+  supportGunData:
+  - Sprite: {fileID: 21300000, guid: feaf047cd5f7e46e1b869446b0c1a64a, type: 3}
+    text: +5000
+    coin: 5000
+    cardNumber: 1
+  - Sprite: {fileID: 21300000, guid: 321d21f99ec4d4ec08f1cacaebe3d6a9, type: 3}
+    text: +7000
+    coin: 7000
+    cardNumber: 2
+  - Sprite: {fileID: 1051172860, guid: 60b6a00bbe4a74ba6bf93fc5038c4d93, type: 3}
+    text: +10,000
+    coin: 10000
+    cardNumber: 3
+  - Sprite: {fileID: 47902552, guid: f7c1a999bbafb4deebf4daec2e4fb805, type: 3}
+    text: +13,000
+    coin: 13000
+    cardNumber: 4
+  - Sprite: {fileID: 21300000, guid: be125a4248da84d739ff035952a8a342, type: 3}
+    text: +18,000
+    coin: 18000
+    cardNumber: 5
+  - Sprite: {fileID: 21300000, guid: e6a8f87573c0e4377b258f3af76f3880, type: 3}
+    text: +20,000
+    coin: 20000
+    cardNumber: 6
+  - Sprite: {fileID: 21300000, guid: a3884acec29c14e0b879a5959f5cebca, type: 3}
+    text: +23,000
+    coin: 23000
+    cardNumber: 7
+  - Sprite: {fileID: 21300000, guid: b235bf7821edc4114bd29444ef47a779, type: 3}
+    text: +25,000
+    coin: 25000
+    cardNumber: 8
+  - Sprite: {fileID: 21300000, guid: a1a818571d04e4118b832ce474bff22f, type: 3}
+    text: +28,000
+    coin: 28000
+    cardNumber: 9
+  - Sprite: {fileID: 21300000, guid: 8a0718667eb5e4c32a2b7c2321f3b898, type: 3}
+    text: +30,000
+    coin: 30000
+    cardNumber: 10
+  - Sprite: {fileID: 21300000, guid: 9b90598af60454cf0ab79f1dc93fa8b5, type: 3}
+    text: +35,000
+    coin: 350
+    cardNumber: 11
+  - Sprite: {fileID: 21300000, guid: d0cc380d404aa480ba4dc9366a45ba4f, type: 3}
+    text: +45,000
+    coin: 0
+    cardNumber: 12

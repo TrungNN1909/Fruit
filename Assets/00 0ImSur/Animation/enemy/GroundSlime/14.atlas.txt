@@ -1,0 +1,10 @@
+14.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+ham duoi14
+bounds:1222,746,654,273
+ham tren14
+bounds:1222,503,587,241
+than 14
+bounds:2,2,1218,1017

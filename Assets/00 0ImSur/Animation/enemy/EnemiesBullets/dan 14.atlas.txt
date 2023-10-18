@@ -1,0 +1,6 @@
+dan 14.png
+size:512,512
+filter:Linear,Linear
+pma:true
+dan 14
+bounds:2,2,487,259

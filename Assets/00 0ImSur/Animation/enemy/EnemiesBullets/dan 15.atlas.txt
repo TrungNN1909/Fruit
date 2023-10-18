@@ -1,0 +1,8 @@
+dan 15.png
+size:512,512
+filter:Linear,Linear
+pma:true
+dan 11
+bounds:2,2,310,77
+dan 14
+bounds:2,81,487,259

@@ -1,0 +1,11 @@
+11.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+mat p 11
+bounds:2,2,128,360
+rotate:90
+mat tr 11
+bounds:493,156,158,352
+sen 11
+bounds:2,132,489,376

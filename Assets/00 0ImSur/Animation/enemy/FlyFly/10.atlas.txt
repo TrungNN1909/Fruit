@@ -1,0 +1,25 @@
+10.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+canh p 1 10
+bounds:279,285,189,200
+canh p 2 10
+bounds:2,2,124,104
+canh tr 10
+bounds:279,148,154,135
+chan tr 10
+bounds:884,403,61,82
+offsets:1,0,62,82
+chanp 10
+bounds:128,24,61,82
+tay p 10
+bounds:470,304,181,205
+offsets:0,0,250,205
+rotate:90
+tay tr 10
+bounds:677,305,180,205
+rotate:90
+than 10
+bounds:2,108,275,377
+offsets:0,39,275,416

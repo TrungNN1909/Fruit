@@ -1,0 +1,24 @@
+blue.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+chan p
+bounds:594,5,193,236
+offsets:16,0,334,245
+rotate:90
+chan t
+bounds:331,2,176,260
+offsets:14,0,298,260
+rotate:90
+dau blue
+bounds:331,180,261,320
+offsets:107,374,474,727
+tay t duoi
+bounds:594,324,176,362
+rotate:90
+tay tren
+bounds:594,200,122,396
+rotate:90
+than
+bounds:2,97,327,403
+offsets:80,69,499,579

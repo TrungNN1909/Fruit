@@ -1,0 +1,37 @@
+bi ngo.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+chan sau bi
+bounds:2,7,59,75
+offsets:0,5,63,80
+rotate:90
+chan trc bi
+bounds:885,426,63,75
+offsets:0,5,63,80
+mat bi
+bounds:455,2,234,155
+rotate:90
+nuoc mat 1
+bounds:619,348,153,264
+offsets:0,0,154,264
+rotate:90
+nuoc mat 1 copy
+bounds:619,210,136,236
+offsets:1,0,137,236
+rotate:90
+nuoc mat 2
+bounds:455,238,162,263
+offsets:0,0,163,264
+nuoc mat 2 copy
+bounds:612,64,144,235
+offsets:1,0,145,236
+rotate:90
+tay sau bi
+bounds:885,348,53,76
+offsets:0,0,57,76
+tay trc bi
+bounds:612,5,57,76
+rotate:90
+than bi
+bounds:2,68,451,433

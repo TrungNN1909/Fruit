@@ -1,0 +1,25 @@
+banban.png
+size:2048,512
+filter:Linear,Linear
+pma:true
+banbanchan tr
+bounds:857,186,192,302
+offsets:0,0,193,302
+banchan p
+bounds:1051,331,157,316
+offsets:0,0,157,330
+rotate:90
+bandau
+bounds:657,150,198,338
+offsets:1,10,200,349
+banluoi
+bounds:1051,204,108,125
+offsets:0,0,109,125
+bantay p
+bounds:2,2,223,486
+offsets:3,0,226,486
+bantay tr
+bounds:227,71,203,417
+offsets:0,0,205,417
+banthan
+bounds:432,133,223,355

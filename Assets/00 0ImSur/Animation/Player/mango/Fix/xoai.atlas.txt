@@ -1,0 +1,40 @@
+xoai.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+chan_sau_xoai
+bounds:2,2,63,80
+offsets:3,1,67,82
+chan_trc_xoai
+bounds:67,2,63,80
+offsets:1,1,67,82
+cuong_xoai
+bounds:302,25,183,141
+offsets:1,44,209,186
+rotate:90
+mat_xoai
+bounds:445,9,171,210
+rotate:90
+nuoc mat 1
+bounds:466,320,153,264
+offsets:0,0,154,264
+rotate:90
+nuoc mat 1 copy
+bounds:466,182,136,236
+offsets:1,0,137,236
+rotate:90
+nuoc mat 2
+bounds:302,210,162,263
+offsets:0,0,163,264
+nuoc mat 2 copy
+bounds:732,329,144,235
+offsets:1,0,145,236
+rotate:90
+tay_sau_xoai
+bounds:132,6,57,76
+offsets:1,1,59,78
+tay_trc_xoai
+bounds:191,6,57,76
+offsets:1,1,59,78
+than_xoai
+bounds:2,84,298,389

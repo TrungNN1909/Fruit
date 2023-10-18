@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pushable
+  - FxTemporaire
+  - WallOver
+  - CandyPiece
+  - PaperBlue
+  - Bullet
+  - Shield
+  - Pet
+  - Enemy
+  - GunBullet
+  - EnemyBullet
+  - Gun
+  - EndPhaseScreen
+  - TabGun
+  - SubGun
+  - HitPoint
+  - BlueBullet
+  - Skill
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ragdoll
+  - Water
+  - UI
+  - Puddle
+  - Player
+  - Bullet
+  - Obstacle
+  - Objects
+  - CandyPiece
+  - Paper
+  - Floor
+  - Shield
+  - Pet
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 2515931519
+    locked: 0
+  - name: Driver
+    uniqueID: 250176435
+    locked: 0
+  - name: Car
+    uniqueID: 3124374895
+    locked: 0
+  - name: Wheel
+    uniqueID: 247680535
+    locked: 0
+  - name: Cat
+    uniqueID: 3555828613
+    locked: 0
+  - name: Gun
+    uniqueID: 768005009
+    locked: 0
+  - name: Enemy
+    uniqueID: 4218442615
+    locked: 0
+  - name: EnemyBullet
+    uniqueID: 365092757
+    locked: 0
+  - name: Bullet
+    uniqueID: 3509375641
+    locked: 0

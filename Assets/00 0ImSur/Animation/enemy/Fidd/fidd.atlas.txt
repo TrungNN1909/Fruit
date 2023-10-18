@@ -1,0 +1,20 @@
+fidd.png
+size:512,512
+filter:Linear,Linear
+pma:true
+fiddchan p
+bounds:274,96,95,131
+offsets:0,1,95,133
+rotate:90
+fiddchan tr
+bounds:246,2,92,125
+offsets:1,1,94,127
+rotate:90
+fiddtay p
+bounds:2,4,157,242
+rotate:90
+fiddtay tr
+bounds:274,193,150,244
+offsets:0,0,151,244
+fiddtthan
+bounds:2,163,270,274

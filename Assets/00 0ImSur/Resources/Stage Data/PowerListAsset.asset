@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 859198e4bf12d4c70b96b77a0a05165c, type: 3}
+  m_Name: PowerListAsset
+  m_EditorClassIdentifier: 
+  data:
+  - id: 0
+    avatar: {fileID: 21300000, guid: 181e67f15b4564e8bbfddfd62c8f3879, type: 3}
+    frame: {fileID: 21300000, guid: 1152f8e943b2f41f7966f54f3724532f, type: 3}
+    description: Increase 10% Power
+  - id: 0
+    avatar: {fileID: 21300000, guid: 181e67f15b4564e8bbfddfd62c8f3879, type: 3}
+    frame: {fileID: 21300000, guid: 1152f8e943b2f41f7966f54f3724532f, type: 3}
+    description: Increase 10% Power
+  - id: 0
+    avatar: {fileID: 21300000, guid: 181e67f15b4564e8bbfddfd62c8f3879, type: 3}
+    frame: {fileID: 21300000, guid: 1152f8e943b2f41f7966f54f3724532f, type: 3}
+    description: Increase 10% Power
+  - id: 0
+    avatar: {fileID: 21300000, guid: 181e67f15b4564e8bbfddfd62c8f3879, type: 3}
+    frame: {fileID: 21300000, guid: 1152f8e943b2f41f7966f54f3724532f, type: 3}
+    description: Increase 10% Power
+  - id: 0
+    avatar: {fileID: 21300000, guid: 181e67f15b4564e8bbfddfd62c8f3879, type: 3}
+    frame: {fileID: 21300000, guid: 1152f8e943b2f41f7966f54f3724532f, type: 3}
+    description: Increase 10% Power
+  - id: 1
+    avatar: {fileID: 21300000, guid: 181e67f15b4564e8bbfddfd62c8f3879, type: 3}
+    frame: {fileID: 21300000, guid: 4a6982bd584ab432e97d167091dfca00, type: 3}
+    description: Increase 15% Power
+  - id: 1
+    avatar: {fileID: 21300000, guid: 181e67f15b4564e8bbfddfd62c8f3879, type: 3}
+    frame: {fileID: 21300000, guid: 4a6982bd584ab432e97d167091dfca00, type: 3}
+    description: Increase 15% Power
+  - id: 1
+    avatar: {fileID: 21300000, guid: 181e67f15b4564e8bbfddfd62c8f3879, type: 3}
+    frame: {fileID: 21300000, guid: 4a6982bd584ab432e97d167091dfca00, type: 3}
+    description: Increase 15% Power
+  - id: 2
+    avatar: {fileID: 21300000, guid: 181e67f15b4564e8bbfddfd62c8f3879, type: 3}
+    frame: {fileID: 21300000, guid: 6c766b6f41bb64556a84e4c4a4bfd112, type: 3}
+    description: Increase 20% Power
+  - id: 2
+    avatar: {fileID: 21300000, guid: 181e67f15b4564e8bbfddfd62c8f3879, type: 3}
+    frame: {fileID: 21300000, guid: 6c766b6f41bb64556a84e4c4a4bfd112, type: 3}
+    description: Increase 20% Power
+  - id: 3
+    avatar: {fileID: 21300000, guid: 09a6ead8eb00942638f3d5a4dd18f14a, type: 3}
+    frame: {fileID: 21300000, guid: 1152f8e943b2f41f7966f54f3724532f, type: 3}
+    description: Increase 15% FireRate
+  - id: 3
+    avatar: {fileID: 21300000, guid: 09a6ead8eb00942638f3d5a4dd18f14a, type: 3}
+    frame: {fileID: 21300000, guid: 1152f8e943b2f41f7966f54f3724532f, type: 3}
+    description: Increase 15% FireRate
+  - id: 3
+    avatar: {fileID: 21300000, guid: 09a6ead8eb00942638f3d5a4dd18f14a, type: 3}
+    frame: {fileID: 21300000, guid: 1152f8e943b2f41f7966f54f3724532f, type: 3}
+    description: Increase 15% FireRate
+  - id: 3
+    avatar: {fileID: 21300000, guid: 09a6ead8eb00942638f3d5a4dd18f14a, type: 3}
+    frame: {fileID: 21300000, guid: 1152f8e943b2f41f7966f54f3724532f, type: 3}
+    description: Increase 15% FireRate
+  - id: 3
+    avatar: {fileID: 21300000, guid: 09a6ead8eb00942638f3d5a4dd18f14a, type: 3}
+    frame: {fileID: 21300000, guid: 1152f8e943b2f41f7966f54f3724532f, type: 3}
+    description: Increase 15% FireRate
+  - id: 4
+    avatar: {fileID: 21300000, guid: 09a6ead8eb00942638f3d5a4dd18f14a, type: 3}
+    frame: {fileID: 21300000, guid: 4a6982bd584ab432e97d167091dfca00, type: 3}
+    description: Increase 20% FireRate
+  - id: 4
+    avatar: {fileID: 21300000, guid: 09a6ead8eb00942638f3d5a4dd18f14a, type: 3}
+    frame: {fileID: 21300000, guid: 4a6982bd584ab432e97d167091dfca00, type: 3}
+    description: Increase 20% FireRate
+  - id: 4
+    avatar: {fileID: 21300000, guid: 09a6ead8eb00942638f3d5a4dd18f14a, type: 3}
+    frame: {fileID: 21300000, guid: 4a6982bd584ab432e97d167091dfca00, type: 3}
+    description: Increase 20% FireRate
+  - id: 5
+    avatar: {fileID: 21300000, guid: 09a6ead8eb00942638f3d5a4dd18f14a, type: 3}
+    frame: {fileID: 21300000, guid: 6c766b6f41bb64556a84e4c4a4bfd112, type: 3}
+    description: Increase 25% FireRate
+  - id: 5
+    avatar: {fileID: 21300000, guid: 09a6ead8eb00942638f3d5a4dd18f14a, type: 3}
+    frame: {fileID: 21300000, guid: 6c766b6f41bb64556a84e4c4a4bfd112, type: 3}
+    description: Increase 25% FireRate
+  - id: 6
+    avatar: {fileID: 21300000, guid: d89ddf72500084f0c896f82e26462997, type: 3}
+    frame: {fileID: 21300000, guid: 1152f8e943b2f41f7966f54f3724532f, type: 3}
+    description: Heal 20% HP
+  - id: 6
+    avatar: {fileID: 21300000, guid: d89ddf72500084f0c896f82e26462997, type: 3}
+    frame: {fileID: 21300000, guid: 1152f8e943b2f41f7966f54f3724532f, type: 3}
+    description: Heal 20% HP
+  - id: 6
+    avatar: {fileID: 21300000, guid: d89ddf72500084f0c896f82e26462997, type: 3}
+    frame: {fileID: 21300000, guid: 1152f8e943b2f41f7966f54f3724532f, type: 3}
+    description: Heal 20% HP
+  - id: 6
+    avatar: {fileID: 21300000, guid: d89ddf72500084f0c896f82e26462997, type: 3}
+    frame: {fileID: 21300000, guid: 1152f8e943b2f41f7966f54f3724532f, type: 3}
+    description: Heal 20% HP
+  - id: 6
+    avatar: {fileID: 21300000, guid: d89ddf72500084f0c896f82e26462997, type: 3}
+    frame: {fileID: 21300000, guid: 1152f8e943b2f41f7966f54f3724532f, type: 3}
+    description: Heal 20% HP
+  - id: 7
+    avatar: {fileID: 21300000, guid: d89ddf72500084f0c896f82e26462997, type: 3}
+    frame: {fileID: 21300000, guid: 4a6982bd584ab432e97d167091dfca00, type: 3}
+    description: Heal 30% HP
+  - id: 7
+    avatar: {fileID: 21300000, guid: d89ddf72500084f0c896f82e26462997, type: 3}
+    frame: {fileID: 21300000, guid: 4a6982bd584ab432e97d167091dfca00, type: 3}
+    description: Heal 30% HP
+  - id: 7
+    avatar: {fileID: 21300000, guid: d89ddf72500084f0c896f82e26462997, type: 3}
+    frame: {fileID: 21300000, guid: 4a6982bd584ab432e97d167091dfca00, type: 3}
+    description: Heal 30% HP
+  - id: 8
+    avatar: {fileID: 21300000, guid: d89ddf72500084f0c896f82e26462997, type: 3}
+    frame: {fileID: 21300000, guid: 6c766b6f41bb64556a84e4c4a4bfd112, type: 3}
+    description: Heal 50% HP
+  - id: 8
+    avatar: {fileID: 21300000, guid: d89ddf72500084f0c896f82e26462997, type: 3}
+    frame: {fileID: 21300000, guid: 6c766b6f41bb64556a84e4c4a4bfd112, type: 3}
+    description: Heal 50% HP
+  - id: 9
+    avatar: {fileID: 21300000, guid: 881a51b24c9024fba8bcedeb3d3cd894, type: 3}
+    frame: {fileID: 21300000, guid: 6c766b6f41bb64556a84e4c4a4bfd112, type: 3}
+    description: Double Shoot
+  - id: 9
+    avatar: {fileID: 21300000, guid: 881a51b24c9024fba8bcedeb3d3cd894, type: 3}
+    frame: {fileID: 21300000, guid: 6c766b6f41bb64556a84e4c4a4bfd112, type: 3}
+    description: Double Shoot
+  - id: 10
+    avatar: {fileID: 21300000, guid: 502d0f3cbf0cf404ea1e69e35696997f, type: 3}
+    frame: {fileID: 21300000, guid: 6c766b6f41bb64556a84e4c4a4bfd112, type: 3}
+    description: Split Shoot
+  - id: 10
+    avatar: {fileID: 21300000, guid: 502d0f3cbf0cf404ea1e69e35696997f, type: 3}
+    frame: {fileID: 21300000, guid: 6c766b6f41bb64556a84e4c4a4bfd112, type: 3}
+    description: Split Shoot

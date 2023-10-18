@@ -1,0 +1,23 @@
+toilet.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+cotoi
+bounds:648,120,131,271
+rotate:90
+dautoi
+bounds:357,24,190,238
+offsets:0,0,191,238
+rotate:90
+hamtoi
+bounds:896,302,118,130
+offsets:1,0,120,132
+naptoi
+bounds:648,253,179,246
+rotate:90
+toilet
+bounds:2,2,353,430
+offsets:52,0,405,435
+toilet tren
+bounds:357,216,289,216
+offsets:55,0,344,216

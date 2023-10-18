@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7024970259220259158
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7024970259220259161}
+  - component: {fileID: 7820177144917547237}
+  m_Layer: 0
+  m_Name: MagicNovation 1
+  m_TagString: Skill
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7024970259220259161
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7024970259220259158}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4712006433752546593}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7820177144917547237
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7024970259220259158}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 179e2d7c5a0794d9183eebb64918e9fc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rb: {fileID: 7027384036201322606}
+  _boxCollider2D: {fileID: 5347906576776612409}
+  fxPos:
+  - {fileID: 4959809225094038442}
+  vfx: {fileID: 147226, guid: 4d496338295339f4ab150256f9d9f4b7, type: 3}
+  atk: 1000
+  explosion: {fileID: 1279125013800246, guid: d25631b69b059d64385ac05f70824713, type: 3}
+  core: {fileID: 155928, guid: 25ed6fd58b5897c4a9c12c3e26164660, type: 3}
+--- !u!1001 &7024970260071186886
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7024970259220259161}
+    m_Modifications:
+    - target: {fileID: 2313123810160082151, guid: e2148e5874d0442d8a6b74678343249b,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2313123810160082151, guid: e2148e5874d0442d8a6b74678343249b,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2313123810160082151, guid: e2148e5874d0442d8a6b74678343249b,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2313123810160082151, guid: e2148e5874d0442d8a6b74678343249b,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2313123810160082151, guid: e2148e5874d0442d8a6b74678343249b,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2313123810160082151, guid: e2148e5874d0442d8a6b74678343249b,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2313123810160082151, guid: e2148e5874d0442d8a6b74678343249b,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2313123810160082151, guid: e2148e5874d0442d8a6b74678343249b,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2313123810160082151, guid: e2148e5874d0442d8a6b74678343249b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2313123810160082151, guid: e2148e5874d0442d8a6b74678343249b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2313123810160082151, guid: e2148e5874d0442d8a6b74678343249b,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3119342565099621375, guid: e2148e5874d0442d8a6b74678343249b,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4342293056000677996, guid: e2148e5874d0442d8a6b74678343249b,
+        type: 3}
+      propertyPath: core
+      value: 
+      objectReference: {fileID: 155928, guid: 25ed6fd58b5897c4a9c12c3e26164660, type: 3}
+    - target: {fileID: 5359029767617624506, guid: e2148e5874d0442d8a6b74678343249b,
+        type: 3}
+      propertyPath: m_Name
+      value: MagicNovation Real
+      objectReference: {fileID: 0}
+    - target: {fileID: 5359029767617624506, guid: e2148e5874d0442d8a6b74678343249b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 4342293056000677996, guid: e2148e5874d0442d8a6b74678343249b, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: e2148e5874d0442d8a6b74678343249b, type: 3}
+--- !u!4 &4712006433752546593 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2313123810160082151, guid: e2148e5874d0442d8a6b74678343249b,
+    type: 3}
+  m_PrefabInstance: {fileID: 7024970260071186886}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &4959809225094038442 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2713837745428857452, guid: e2148e5874d0442d8a6b74678343249b,
+    type: 3}
+  m_PrefabInstance: {fileID: 7024970260071186886}
+  m_PrefabAsset: {fileID: 0}
+--- !u!61 &5347906576776612409 stripped
+BoxCollider2D:
+  m_CorrespondingSourceObject: {fileID: 3119342565099621375, guid: e2148e5874d0442d8a6b74678343249b,
+    type: 3}
+  m_PrefabInstance: {fileID: 7024970260071186886}
+  m_PrefabAsset: {fileID: 0}
+--- !u!50 &7027384036201322606 stripped
+Rigidbody2D:
+  m_CorrespondingSourceObject: {fileID: 70929181965146536, guid: e2148e5874d0442d8a6b74678343249b,
+    type: 3}
+  m_PrefabInstance: {fileID: 7024970260071186886}
+  m_PrefabAsset: {fileID: 0}

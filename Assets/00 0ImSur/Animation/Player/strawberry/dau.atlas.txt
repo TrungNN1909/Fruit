@@ -1,0 +1,38 @@
+dau.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+chan_sau_dau
+bounds:911,354,59,76
+offsets:1,5,65,82
+chan_trc_dau
+bounds:911,432,63,76
+offsets:1,5,65,82
+la_dau
+bounds:445,351,227,157
+mat_dau
+bounds:683,193,213,169
+nuoc mat 1
+bounds:290,244,153,264
+offsets:0,0,154,264
+nuoc mat 1 copy
+bounds:445,213,136,236
+offsets:1,0,137,236
+rotate:90
+nuoc mat 2
+bounds:2,57,162,263
+offsets:0,0,163,264
+rotate:90
+nuoc mat 2 copy
+bounds:674,364,144,235
+offsets:1,0,145,236
+rotate:90
+tay_sau_dau
+bounds:2,2,53,76
+offsets:1,1,59,78
+rotate:90
+tay_trc_dau
+bounds:898,276,57,76
+offsets:1,1,59,78
+than_dau
+bounds:2,221,286,287

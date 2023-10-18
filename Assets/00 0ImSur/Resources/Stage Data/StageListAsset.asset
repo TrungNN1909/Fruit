@@ -1,0 +1,3315 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 228a46be254e84c778b9e6f7e56a60b3, type: 3}
+  m_Name: StageListAsset
+  m_EditorClassIdentifier: 
+  data:
+  - stageNumber: 0
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 0
+      numberOfFlySlime: 0
+      numberOfGroundSlime: 0
+      numberOfFlyFly: 0
+      numberOfFidd: 4
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 0
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 0
+      numberOfFidd: 4
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 2
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 2
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 1
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 0
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 0
+      numberOfFidd: 3
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 3
+      numberOfFidd: 3
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 2
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 2
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 0
+      numberOfSnail: 2
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 1
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 2
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 3
+    phases:
+    - numberOfBird: 0
+      numberOfSnail: 0
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 0
+      numberOfFlyFly: 5
+      numberOfFidd: 0
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 0
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 5
+      numberOfFidd: 0
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 2
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 0
+      numberOfFlyFly: 2
+      numberOfFidd: 2
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 1
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 4
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 1
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 1
+      numberOfFidd: 5
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 1
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 2
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 0
+  - stageNumber: 5
+    phases:
+    - numberOfBird: 0
+      numberOfSnail: 2
+      numberOfFlySlime: 1
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 3
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 3
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 6
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 2
+      numberOfFidd: 0
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 0
+      numberOfSnail: 5
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 0
+      numberOfFidd: 0
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 7
+    phases:
+    - numberOfBird: 2
+      numberOfSnail: 2
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 0
+      numberOfFidd: 0
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 0
+      numberOfSnail: 0
+      numberOfFlySlime: 0
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 0
+      numberOfFidd: 0
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 8
+    phases:
+    - numberOfBird: 0
+      numberOfSnail: 0
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 0
+      numberOfFlyFly: 3
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 0
+      numberOfSnail: 3
+      numberOfFlySlime: 0
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 0
+      numberOfFidd: 0
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 0
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 0
+      numberOfFidd: 0
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 1
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 9
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 0
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 1
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 3
+      numberOfFidd: 2
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 2
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 2
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 1
+  - stageNumber: 10
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 0
+      numberOfGroundSlime: 0
+      numberOfFlyFly: 0
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 0
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 3
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 4
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 3
+      numberOfFidd: 4
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 11
+    phases:
+    - numberOfBird: 2
+      numberOfSnail: 1
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 1
+      numberOfFlyFly: 3
+      numberOfFidd: 1
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 1
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 1
+      numberOfPlantZombie: 1
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 4
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 12
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 1
+      numberOfGroundSlime: 1
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 2
+      numberOfFidd: 2
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 13
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 4
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 3
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 14
+    phases:
+    - numberOfBird: 1
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 1
+      numberOfFlyFly: 1
+      numberOfFidd: 1
+      numberOfPlantZombie: 1
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 1
+    - numberOfBird: 1
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 3
+      numberOfFidd: 2
+      numberOfPlantZombie: 1
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 1
+    - numberOfBird: 1
+      numberOfSnail: 2
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 1
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 1
+  - stageNumber: 15
+    phases:
+    - numberOfBird: 2
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 3
+      numberOfFidd: 4
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 5
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 4
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 16
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 4
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 4
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 3
+      numberOfFidd: 4
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 5
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 5
+      numberOfFidd: 5
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 17
+    phases:
+    - numberOfBird: 5
+      numberOfSnail: 4
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 5
+      numberOfFidd: 4
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 4
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 4
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 5
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 5
+      numberOfFidd: 5
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 18
+    phases:
+    - numberOfBird: 5
+      numberOfSnail: 5
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 3
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 5
+      numberOfFidd: 5
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 6
+      numberOfFlyFly: 6
+      numberOfFidd: 6
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 19
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 0
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 0
+      numberOfFlyFly: 0
+      numberOfFidd: 3
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 1
+    - numberOfBird: 6
+      numberOfSnail: 5
+      numberOfFlySlime: 6
+      numberOfGroundSlime: 6
+      numberOfFlyFly: 5
+      numberOfFidd: 5
+      numberOfPlantZombie: 6
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 0
+      numberOfSnail: 0
+      numberOfFlySlime: 6
+      numberOfGroundSlime: 0
+      numberOfFlyFly: 0
+      numberOfFidd: 0
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 1
+  - stageNumber: 20
+    phases:
+    - numberOfBird: 6
+      numberOfSnail: 4
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 6
+      numberOfFlyFly: 4
+      numberOfFidd: 4
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 4
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 6
+      numberOfPlantZombie: 6
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 6
+      numberOfSnail: 4
+      numberOfFlySlime: 6
+      numberOfGroundSlime: 6
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 6
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 21
+    phases:
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 1
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 6
+      numberOfFlySlime: 6
+      numberOfGroundSlime: 6
+      numberOfFlyFly: 5
+      numberOfFidd: 5
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 1
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 22
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 1
+    - numberOfBird: 4
+      numberOfSnail: 4
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 3
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 1
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 23
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 5
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 5
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 4
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 3
+      numberOfFidd: 2
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 24
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 1
+    - numberOfBird: 5
+      numberOfSnail: 6
+      numberOfFlySlime: 6
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 5
+      numberOfFidd: 4
+      numberOfPlantZombie: 6
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 1
+  - stageNumber: 25
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 3
+      numberOfFidd: 1
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 5
+      numberOfFidd: 6
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 26
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 6
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 5
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 5
+      numberOfPlantZombie: 6
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 5
+      numberOfFidd: 6
+      numberOfPlantZombie: 1
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 27
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 2
+      numberOfFidd: 5
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 3
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 2
+      numberOfFidd: 1
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 28
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 4
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 5
+      numberOfFidd: 3
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 0
+      numberOfFidd: 2
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 1
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 29
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 0
+      numberOfFlyFly: 3
+      numberOfFidd: 0
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 1
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 1
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 2
+      numberOfFlySlime: 0
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 1
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 1
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 1
+  - stageNumber: 30
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 3
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 2
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 5
+      numberOfFidd: 2
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 4
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 5
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 31
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 5
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 5
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 6
+      numberOfFlyFly: 4
+      numberOfFidd: 2
+      numberOfPlantZombie: 1
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 6
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 32
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 2
+      numberOfFidd: 4
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 4
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 4
+      numberOfFidd: 3
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 33
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 3
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 4
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 2
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 4
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 1
+      numberOfFlyFly: 3
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 34
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 1
+      numberOfFidd: 2
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 0
+  - stageNumber: 35
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 2
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 4
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 4
+      numberOfFidd: 2
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 36
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 1
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 5
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 37
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 4
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 3
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 38
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 4
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 4
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 3
+      numberOfFidd: 2
+      numberOfPlantZombie: 1
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 1
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 39
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 1
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 4
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 1
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 1
+      numberOfFidd: 2
+      numberOfPlantZombie: 1
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 1
+  - stageNumber: 40
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 4
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 4
+      numberOfFidd: 6
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 41
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 2
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 5
+      numberOfFidd: 2
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 2
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 1
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 2
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 5
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 4
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 2
+      numberOfFidd: 2
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 42
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 4
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 3
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 4
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 1
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 1
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 1
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 0
+  - stageNumber: 43
+    phases:
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 5
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 4
+      numberOfFidd: 4
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 4
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 4
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 2
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 2
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 44
+    phases:
+    - numberOfBird: 2
+      numberOfSnail: 4
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 2
+      numberOfPlantZombie: 1
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 1
+    - numberOfBird: 0
+      numberOfSnail: 4
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 3
+      numberOfFidd: 0
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 1
+    - numberOfBird: 2
+      numberOfSnail: 4
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 1
+    - numberOfBird: 2
+      numberOfSnail: 2
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 2
+      numberOfFidd: 2
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 1
+  - stageNumber: 45
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 2
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 4
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 4
+      numberOfFidd: 4
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 4
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 46
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 4
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 47
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 4
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 5
+      numberOfFidd: 3
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 48
+    phases:
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 2
+      numberOfPlantZombie: 1
+      numberOfHuggyBoss: 1
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 4
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 49
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 2
+      numberOfFidd: 1
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 1
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 4
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 3
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 1
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 50
+    phases:
+    - numberOfBird: 0
+      numberOfSnail: 0
+      numberOfFlySlime: 0
+      numberOfGroundSlime: 0
+      numberOfFlyFly: 0
+      numberOfFidd: 0
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 1
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 0
+      numberOfSnail: 0
+      numberOfFlySlime: 0
+      numberOfGroundSlime: 0
+      numberOfFlyFly: 0
+      numberOfFidd: 0
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 2
+      numberOfBlueBoss: 0
+    - numberOfBird: 0
+      numberOfSnail: 0
+      numberOfFlySlime: 0
+      numberOfGroundSlime: 0
+      numberOfFlyFly: 0
+      numberOfFidd: 0
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 3
+    - numberOfBird: 0
+      numberOfSnail: 0
+      numberOfFlySlime: 0
+      numberOfGroundSlime: 0
+      numberOfFlyFly: 0
+      numberOfFidd: 0
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 1
+  - stageNumber: 51
+    phases:
+    - numberOfBird: 2
+      numberOfSnail: 4
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 2
+      numberOfPlantZombie: 1
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 52
+    phases:
+    - numberOfBird: 1
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 1
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 0
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 6
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 53
+    phases:
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 4
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 4
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 54
+    phases:
+    - numberOfBird: 0
+      numberOfSnail: 0
+      numberOfFlySlime: 0
+      numberOfGroundSlime: 0
+      numberOfFlyFly: 0
+      numberOfFidd: 0
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 0
+      numberOfSnail: 0
+      numberOfFlySlime: 0
+      numberOfGroundSlime: 0
+      numberOfFlyFly: 0
+      numberOfFidd: 0
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 0
+      numberOfSnail: 0
+      numberOfFlySlime: 0
+      numberOfGroundSlime: 0
+      numberOfFlyFly: 0
+      numberOfFidd: 0
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 55
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 3
+      numberOfFidd: 3
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 5
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 56
+    phases:
+    - numberOfBird: 5
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 6
+      numberOfFidd: 3
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 3
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 57
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 5
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 5
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 6
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 3
+      numberOfFidd: 0
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 3
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 58
+    phases:
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 3
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 3
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 59
+    phases:
+    - numberOfBird: 2
+      numberOfSnail: 4
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 3
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 2
+      numberOfFidd: 5
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 1
+  - stageNumber: 60
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 4
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 1
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 5
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 0
+  - stageNumber: 61
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 4
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 2
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 4
+      numberOfFidd: 2
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 4
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 2
+      numberOfFidd: 4
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 62
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 2
+      numberOfFidd: 4
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 2
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 1
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 2
+      numberOfFidd: 2
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 1
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 63
+    phases:
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 2
+      numberOfFidd: 4
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 5
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 4
+      numberOfFidd: 4
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 4
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 64
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 1
+    - numberOfBird: 2
+      numberOfSnail: 1
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 2
+      numberOfFidd: 0
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 1
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 1
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 1
+  - stageNumber: 65
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 4
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 5
+      numberOfFidd: 4
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 2
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 3
+      numberOfFidd: 4
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 4
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 6
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 66
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 3
+      numberOfFidd: 2
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 4
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 3
+      numberOfFidd: 2
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 3
+      numberOfFidd: 5
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 67
+    phases:
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 4
+      numberOfFlySlime: 6
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 6
+      numberOfPlantZombie: 6
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 3
+      numberOfFidd: 5
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 68
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 3
+      numberOfFidd: 4
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 1
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 3
+      numberOfFidd: 4
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 3
+      numberOfFidd: 4
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 1
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 69
+    phases:
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 5
+      numberOfFidd: 4
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 6
+      numberOfSnail: 5
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 3
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 5
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 0
+  - stageNumber: 70
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 6
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 6
+      numberOfFidd: 4
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 71
+    phases:
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 4
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 3
+      numberOfFidd: 3
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 1
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 6
+      numberOfFidd: 6
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 72
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 5
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 5
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 3
+      numberOfFidd: 4
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 3
+      numberOfFidd: 4
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 73
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 4
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 4
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 5
+      numberOfFidd: 6
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 5
+      numberOfFidd: 3
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 74
+    phases:
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 1
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 2
+      numberOfFidd: 1
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 1
+    - numberOfBird: 2
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 2
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 1
+  - stageNumber: 75
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 4
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 5
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 5
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 3
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 76
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 5
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 4
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 4
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 6
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 5
+      numberOfFidd: 3
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 77
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 4
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 4
+      numberOfFidd: 4
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 78
+    phases:
+    - numberOfBird: 79
+      numberOfSnail: 4
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 3
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 3
+      numberOfFidd: 4
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 6
+      numberOfSnail: 4
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 4
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 79
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 6
+      numberOfSnail: 4
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 3
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 4
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 1
+  - stageNumber: 80
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 4
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 4
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 5
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 3
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 81
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 4
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 5
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 4
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 5
+      numberOfFidd: 6
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 82
+    phases:
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 4
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 4
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 6
+      numberOfFidd: 3
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 83
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 5
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 4
+      numberOfFidd: 1
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 84
+    phases:
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 3
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 3
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 1
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 1
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 1
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 85
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 5
+      numberOfFidd: 3
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 5
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 1
+      numberOfSnail: 3
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 6
+      numberOfFidd: 4
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 86
+    phases:
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 5
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 5
+      numberOfFidd: 6
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 6
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 87
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 6
+      numberOfFlyFly: 3
+      numberOfFidd: 4
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 4
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 6
+      numberOfFidd: 4
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 4
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 4
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 1
+  - stageNumber: 88
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 3
+      numberOfFidd: 4
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 3
+      numberOfFidd: 5
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 5
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 3
+      numberOfFidd: 5
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 89
+    phases:
+    - numberOfBird: 2
+      numberOfSnail: 3
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 0
+      numberOfFidd: 0
+      numberOfPlantZombie: 0
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 1
+    - numberOfBird: 3
+      numberOfSnail: 4
+      numberOfFlySlime: 2
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 6
+      numberOfFidd: 5
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 1
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 4
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 5
+      numberOfFidd: 2
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 4
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 0
+      numberOfFlyFly: 3
+      numberOfFidd: 0
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 1
+  - stageNumber: 90
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 2
+      numberOfFlyFly: 3
+      numberOfFidd: 4
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 5
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 2
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 5
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 91
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 3
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 4
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 2
+      numberOfFidd: 4
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 92
+    phases:
+    - numberOfBird: 5
+      numberOfSnail: 4
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 3
+      numberOfFidd: 4
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 6
+      numberOfFlyFly: 5
+      numberOfFidd: 3
+      numberOfPlantZombie: 2
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 6
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 6
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 93
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 5
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 3
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 6
+      numberOfSnail: 4
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 6
+      numberOfFidd: 4
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 3
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 5
+      numberOfFidd: 6
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 94
+    phases:
+    - numberOfBird: 6
+      numberOfSnail: 5
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 6
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 6
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 3
+      numberOfFidd: 5
+      numberOfPlantZombie: 6
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 95
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 5
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 5
+      numberOfFidd: 5
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 4
+      numberOfSnail: 6
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 6
+      numberOfFidd: 6
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 6
+      numberOfSnail: 4
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 4
+      numberOfFlyFly: 5
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 96
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 5
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 5
+      numberOfFidd: 5
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 6
+      numberOfFlySlime: 4
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 5
+      numberOfFidd: 6
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 4
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 6
+      numberOfFlyFly: 4
+      numberOfFidd: 6
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 97
+    phases:
+    - numberOfBird: 4
+      numberOfSnail: 2
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 6
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 4
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 3
+      numberOfFidd: 5
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 6
+      numberOfSnail: 4
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 6
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 4
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 98
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 5
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 4
+      numberOfFidd: 5
+      numberOfPlantZombie: 6
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 6
+      numberOfSnail: 4
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 5
+      numberOfFlyFly: 6
+      numberOfFidd: 4
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 5
+      numberOfSnail: 3
+      numberOfFlySlime: 5
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 5
+      numberOfFidd: 4
+      numberOfPlantZombie: 5
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+  - stageNumber: 99
+    phases:
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 3
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 1
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 3
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 1
+      numberOfBlueBoss: 0
+    - numberOfBird: 3
+      numberOfSnail: 3
+      numberOfFlySlime: 3
+      numberOfGroundSlime: 3
+      numberOfFlyFly: 3
+      numberOfFidd: 3
+      numberOfPlantZombie: 3
+      numberOfHuggyBoss: 0
+      numberOfGreenBoss: 0
+      numberOfBlueBoss: 1

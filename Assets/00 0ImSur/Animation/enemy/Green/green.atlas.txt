@@ -1,0 +1,25 @@
+green.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+chan p
+bounds:2,105,240,301
+offsets:3,0,243,301
+chan t
+bounds:767,726,251,251
+dau
+bounds:767,470,254,219
+offsets:2,1,257,221
+rotate:90
+ngon tay p
+bounds:2,2,98,101
+offsets:0,0,99,101
+ngon tay t
+bounds:767,369,88,99
+offsets:0,0,89,99
+tay p
+bounds:244,74,629,271
+tay t
+bounds:2,408,462,569
+than
+bounds:466,347,299,630

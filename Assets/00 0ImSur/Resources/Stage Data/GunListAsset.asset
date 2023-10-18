@@ -1,0 +1,403 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0972b30bd1f2d4282ba0813bed60a244, type: 3}
+  m_Name: GunListAsset
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 21300000, guid: 0b514459df72d48f58e4777b202c1b37, type: 3}
+    - {fileID: 4463481421824101548, guid: 5cece6608ba674b3c9382f781123f063, type: 3}
+    - {fileID: 2266344432594949558, guid: f6b28b7591c6e4e8c983f40a941225da, type: 3}
+    - {fileID: 21300000, guid: 929d10d9b1a9c4dff8418c577e69f20a, type: 3}
+    - {fileID: 4463481421824101548, guid: 21a9e4ef2e18c46979be44f232de0bab, type: 3}
+    - {fileID: 8240376571734594456, guid: f18541d573eea4b55b584d885a9e3eec, type: 3}
+    - {fileID: 21300000, guid: 7671f951fdd554922824904513ec951a, type: 3}
+    - {fileID: 4463481421824101548, guid: 454f74babc9b04e4e81d799103e99f08, type: 3}
+    - {fileID: 5208896653994962395, guid: 5ad4ec44fab354949a68b77e66b21bac, type: 3}
+    - {fileID: 21300000, guid: ebdf31a1e0acb453387cc057cf07dc7b, type: 3}
+    - {fileID: 4463481421824101548, guid: 02af7ab5861bb40bfb4d5a7382f7d7d7, type: 3}
+    - {fileID: 5208896653994962395, guid: 986800aa6cb5a4106bfbe32a3a255cb8, type: 3}
+    - {fileID: 21300000, guid: 87f4b280fa76d4d0eaef42ab04a993dc, type: 3}
+    - {fileID: 4463481421824101548, guid: 3b95a882583c84fc5a128508d8f1303d, type: 3}
+    - {fileID: 5208896653994962395, guid: 4689167449bdc4ff9b173d982f8f568a, type: 3}
+    - {fileID: 21300000, guid: c42bda33dcd804572bc78c998b838935, type: 3}
+    - {fileID: 4463481421824101548, guid: ef8920ded0e48487b858a6d791eb6a17, type: 3}
+    - {fileID: 5208896653994962395, guid: a20e9aa0cdff44168b808b43ea616f8e, type: 3}
+    - {fileID: 21300000, guid: 8083a550b7f4c4890a5507a3212cdf08, type: 3}
+    - {fileID: 4463481421824101548, guid: f93ef214340694b779d0499b766d78e9, type: 3}
+    - {fileID: 5208896653994962395, guid: 85ddf6f975ba6425098c1b7c12d18c07, type: 3}
+    - {fileID: 21300000, guid: b89e61ae2ed4d480f8640667cce83331, type: 3}
+    - {fileID: 4463481421824101548, guid: a89e1d43a33b54b6294c62d51564b4b8, type: 3}
+    - {fileID: 5208896653994962395, guid: 78ba8c673febe4b9ba0c2a759026c031, type: 3}
+    - {fileID: 21300000, guid: d3f73e89682fc48ccb15a0a1acc62913, type: 3}
+    - {fileID: 4463481421824101548, guid: a64823e07b9f04a24a1f3ae2a282af63, type: 3}
+    - {fileID: 5208896653994962395, guid: f2935f279b9534f9e98831b3b85730ae, type: 3}
+    - {fileID: 21300000, guid: 60061efdb108a41ee9ca0568b6351368, type: 3}
+    - {fileID: 4224676469511934232, guid: a024076162814479380c033de550bd46, type: 3}
+    - {fileID: 5208896653994962395, guid: 01952646884344f5986cec8600fdd073, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: data
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[Unicorn.GunInfos,
+        Assembly-CSharp]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.GenericEqualityComparer`1[[System.Int32,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 10
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 7
+      Data: 2|Unicorn.GunInfos, Assembly-CSharp
+    - Name: lv
+      Entry: 3
+      Data: 1
+    - Name: sprite
+      Entry: 10
+      Data: 0
+    - Name: baseDmg
+      Entry: 4
+      Data: 5
+    - Name: spd
+      Entry: 4
+      Data: 40
+    - Name: bullet
+      Entry: 10
+      Data: 1
+    - Name: Gun
+      Entry: 10
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 7
+      Data: 3|Unicorn.GunInfos, Assembly-CSharp
+    - Name: lv
+      Entry: 3
+      Data: 2
+    - Name: sprite
+      Entry: 10
+      Data: 3
+    - Name: baseDmg
+      Entry: 4
+      Data: 8
+    - Name: spd
+      Entry: 4
+      Data: 40
+    - Name: bullet
+      Entry: 10
+      Data: 4
+    - Name: Gun
+      Entry: 10
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3
+    - Name: $v
+      Entry: 7
+      Data: 4|Unicorn.GunInfos, Assembly-CSharp
+    - Name: lv
+      Entry: 3
+      Data: 3
+    - Name: sprite
+      Entry: 10
+      Data: 6
+    - Name: baseDmg
+      Entry: 4
+      Data: 10
+    - Name: spd
+      Entry: 4
+      Data: 40
+    - Name: bullet
+      Entry: 10
+      Data: 7
+    - Name: Gun
+      Entry: 10
+      Data: 8
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 4
+    - Name: $v
+      Entry: 7
+      Data: 5|Unicorn.GunInfos, Assembly-CSharp
+    - Name: lv
+      Entry: 3
+      Data: 4
+    - Name: sprite
+      Entry: 10
+      Data: 9
+    - Name: baseDmg
+      Entry: 4
+      Data: 12
+    - Name: spd
+      Entry: 4
+      Data: 40
+    - Name: bullet
+      Entry: 10
+      Data: 10
+    - Name: Gun
+      Entry: 10
+      Data: 11
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 5
+    - Name: $v
+      Entry: 7
+      Data: 6|Unicorn.GunInfos, Assembly-CSharp
+    - Name: lv
+      Entry: 3
+      Data: 5
+    - Name: sprite
+      Entry: 10
+      Data: 12
+    - Name: baseDmg
+      Entry: 4
+      Data: 15
+    - Name: spd
+      Entry: 4
+      Data: 40
+    - Name: bullet
+      Entry: 10
+      Data: 13
+    - Name: Gun
+      Entry: 10
+      Data: 14
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 6
+    - Name: $v
+      Entry: 7
+      Data: 7|Unicorn.GunInfos, Assembly-CSharp
+    - Name: lv
+      Entry: 3
+      Data: 6
+    - Name: sprite
+      Entry: 10
+      Data: 15
+    - Name: baseDmg
+      Entry: 4
+      Data: 18
+    - Name: spd
+      Entry: 4
+      Data: 45
+    - Name: bullet
+      Entry: 10
+      Data: 16
+    - Name: Gun
+      Entry: 10
+      Data: 17
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 7
+    - Name: $v
+      Entry: 7
+      Data: 8|Unicorn.GunInfos, Assembly-CSharp
+    - Name: lv
+      Entry: 3
+      Data: 7
+    - Name: sprite
+      Entry: 10
+      Data: 18
+    - Name: baseDmg
+      Entry: 4
+      Data: 22
+    - Name: spd
+      Entry: 4
+      Data: 45
+    - Name: bullet
+      Entry: 10
+      Data: 19
+    - Name: Gun
+      Entry: 10
+      Data: 20
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 8
+    - Name: $v
+      Entry: 7
+      Data: 9|Unicorn.GunInfos, Assembly-CSharp
+    - Name: lv
+      Entry: 3
+      Data: 8
+    - Name: sprite
+      Entry: 10
+      Data: 21
+    - Name: baseDmg
+      Entry: 4
+      Data: 30
+    - Name: spd
+      Entry: 4
+      Data: 45
+    - Name: bullet
+      Entry: 10
+      Data: 22
+    - Name: Gun
+      Entry: 10
+      Data: 23
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 9
+    - Name: $v
+      Entry: 7
+      Data: 10|Unicorn.GunInfos, Assembly-CSharp
+    - Name: lv
+      Entry: 3
+      Data: 9
+    - Name: sprite
+      Entry: 10
+      Data: 24
+    - Name: baseDmg
+      Entry: 4
+      Data: 35
+    - Name: spd
+      Entry: 4
+      Data: 50
+    - Name: bullet
+      Entry: 10
+      Data: 25
+    - Name: Gun
+      Entry: 10
+      Data: 26
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 10
+    - Name: $v
+      Entry: 7
+      Data: 11|Unicorn.GunInfos, Assembly-CSharp
+    - Name: lv
+      Entry: 3
+      Data: 10
+    - Name: sprite
+      Entry: 10
+      Data: 27
+    - Name: baseDmg
+      Entry: 4
+      Data: 42
+    - Name: spd
+      Entry: 4
+      Data: 50
+    - Name: bullet
+      Entry: 10
+      Data: 28
+    - Name: Gun
+      Entry: 10
+      Data: 29
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

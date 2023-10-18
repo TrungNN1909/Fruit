@@ -1,0 +1,43 @@
+dua_hau.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+L_leg_chuoi
+bounds:959,425,63,80
+offsets:1,1,67,82
+R_leg_chuoi
+bounds:691,136,68,75
+offsets:1,3,70,79
+rotate:90
+chan_sau_hau
+bounds:2,2,60,78
+offsets:1,3,65,82
+rotate:90
+mat_hau_meo
+bounds:426,314,265,191
+nuoc mat 1
+bounds:693,352,153,264
+offsets:0,0,154,264
+rotate:90
+nuoc mat 1 copy
+bounds:426,12,136,236
+offsets:1,0,137,236
+rotate:90
+nuoc mat 2
+bounds:426,150,162,263
+offsets:0,0,163,264
+rotate:90
+nuoc mat 2 copy
+bounds:693,206,144,235
+offsets:1,0,145,236
+rotate:90
+tay_sau_hau
+bounds:160,8,54,76
+offsets:1,1,59,78
+rotate:90
+tay_trc_hau
+bounds:82,5,57,76
+offsets:1,1,59,78
+rotate:90
+than_hau
+bounds:2,64,422,441

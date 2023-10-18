@@ -1,0 +1,418 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cbbd77ead2c64d1a82a034ce6a29e9b, type: 3}
+  m_Name: CarListAsset
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 21300000, guid: 766a165b37c1f49249edfb2b31bfbcb5, type: 3}
+    - {fileID: 3244640209658403727, guid: 124fea320081c4752a587967952d8dd6, type: 3}
+    - {fileID: 7908318677807634700, guid: ee8fa37f2f64a469889a197ec9676f31, type: 3}
+    - {fileID: 21300000, guid: c97434d57a59e43aeb1f6c06c4014280, type: 3}
+    - {fileID: 2555622523807976865, guid: aa6c89d3bf490452cb0582ac55a268bb, type: 3}
+    - {fileID: 4298118538419483648, guid: af6a3980e80e34d1c8380271275b33fa, type: 3}
+    - {fileID: 21300000, guid: 319c92f91a7e94649b32bd2abf207c57, type: 3}
+    - {fileID: 4967458712999062719, guid: c1834472372ab4d639b4fec5aaa8ead1, type: 3}
+    - {fileID: 68649846381485034, guid: e991fb7e184024c32b866f55daa1774d, type: 3}
+    - {fileID: 21300000, guid: 7d5700be38a85407992ab1eaf0251a2b, type: 3}
+    - {fileID: 665600855665368639, guid: 6566a8899c93d4659895ca1148514dff, type: 3}
+    - {fileID: 252742166104654688, guid: 8a86dd01569084b648353a7ad5942a9b, type: 3}
+    - {fileID: 21300000, guid: 8ab36cc7624ee45d8ba9f23c8f8e244b, type: 3}
+    - {fileID: 4033893288620168043, guid: 7f55981252634453687814b658436793, type: 3}
+    - {fileID: 7908318677807634700, guid: bd7b1eccdcea14d77b039af3a227fa5f, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: data
+      Entry: 7
+      Data: 0|System.Collections.Generic.Dictionary`2[[System.Int32, mscorlib],[Unicorn.CarInfo,
+        Assembly-CSharp]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 1|System.Collections.Generic.GenericEqualityComparer`1[[System.Int32,
+        mscorlib]], mscorlib
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 1
+    - Name: $v
+      Entry: 7
+      Data: 2|Unicorn.CarInfo, Assembly-CSharp
+    - Name: level
+      Entry: 3
+      Data: 1
+    - Name: avatar
+      Entry: 10
+      Data: 0
+    - Name: amountIncreaseHP
+      Entry: 3
+      Data: 100
+    - Name: timesToNextLevel
+      Entry: 3
+      Data: 5
+    - Name: baseHP
+      Entry: 4
+      Data: 500
+    - Name: baseCost
+      Entry: 3
+      Data: 10000
+    - Name: costIncreasing
+      Entry: 3
+      Data: 1000
+    - Name: car
+      Entry: 10
+      Data: 1
+    - Name: carInTab
+      Entry: 10
+      Data: 2
+    - Name: defaultPositonOnPlaying
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: -13
+    - Name: 
+      Entry: 4
+      Data: -2
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: defaultPositionNotOnPlaying
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: -2
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 2
+    - Name: $v
+      Entry: 7
+      Data: 3|Unicorn.CarInfo, Assembly-CSharp
+    - Name: level
+      Entry: 3
+      Data: 2
+    - Name: avatar
+      Entry: 10
+      Data: 3
+    - Name: amountIncreaseHP
+      Entry: 3
+      Data: 200
+    - Name: timesToNextLevel
+      Entry: 3
+      Data: 10
+    - Name: baseHP
+      Entry: 4
+      Data: 1500
+    - Name: baseCost
+      Entry: 3
+      Data: 15000
+    - Name: costIncreasing
+      Entry: 3
+      Data: 1500
+    - Name: car
+      Entry: 10
+      Data: 4
+    - Name: carInTab
+      Entry: 10
+      Data: 5
+    - Name: defaultPositonOnPlaying
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: -12
+    - Name: 
+      Entry: 4
+      Data: -2
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: defaultPositionNotOnPlaying
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: -2
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 3
+    - Name: $v
+      Entry: 7
+      Data: 4|Unicorn.CarInfo, Assembly-CSharp
+    - Name: level
+      Entry: 3
+      Data: 3
+    - Name: avatar
+      Entry: 10
+      Data: 6
+    - Name: amountIncreaseHP
+      Entry: 3
+      Data: 300
+    - Name: timesToNextLevel
+      Entry: 3
+      Data: 20
+    - Name: baseHP
+      Entry: 4
+      Data: 4000
+    - Name: baseCost
+      Entry: 3
+      Data: 30000
+    - Name: costIncreasing
+      Entry: 3
+      Data: 3000
+    - Name: car
+      Entry: 10
+      Data: 7
+    - Name: carInTab
+      Entry: 10
+      Data: 8
+    - Name: defaultPositonOnPlaying
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: -14.5
+    - Name: 
+      Entry: 4
+      Data: -2
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: defaultPositionNotOnPlaying
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: -1
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 4
+    - Name: $v
+      Entry: 7
+      Data: 5|Unicorn.CarInfo, Assembly-CSharp
+    - Name: level
+      Entry: 3
+      Data: 4
+    - Name: avatar
+      Entry: 10
+      Data: 9
+    - Name: amountIncreaseHP
+      Entry: 3
+      Data: 0
+    - Name: timesToNextLevel
+      Entry: 3
+      Data: 0
+    - Name: baseHP
+      Entry: 4
+      Data: 12000
+    - Name: baseCost
+      Entry: 3
+      Data: 0
+    - Name: costIncreasing
+      Entry: 3
+      Data: 0
+    - Name: car
+      Entry: 10
+      Data: 10
+    - Name: carInTab
+      Entry: 10
+      Data: 11
+    - Name: defaultPositonOnPlaying
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: -10.5
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: defaultPositionNotOnPlaying
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 3
+      Data: 0
+    - Name: $v
+      Entry: 7
+      Data: 6|Unicorn.CarInfo, Assembly-CSharp
+    - Name: level
+      Entry: 3
+      Data: 0
+    - Name: avatar
+      Entry: 10
+      Data: 12
+    - Name: amountIncreaseHP
+      Entry: 3
+      Data: 100
+    - Name: timesToNextLevel
+      Entry: 3
+      Data: 1
+    - Name: baseHP
+      Entry: 4
+      Data: 100
+    - Name: baseCost
+      Entry: 3
+      Data: 1000
+    - Name: costIncreasing
+      Entry: 3
+      Data: 0
+    - Name: car
+      Entry: 10
+      Data: 13
+    - Name: carInTab
+      Entry: 10
+      Data: 14
+    - Name: defaultPositonOnPlaying
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: -13
+    - Name: 
+      Entry: 4
+      Data: -2
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: defaultPositionNotOnPlaying
+      Entry: 7
+      Data: UnityEngine.Vector3, UnityEngine.CoreModule
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: -2
+    - Name: 
+      Entry: 4
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

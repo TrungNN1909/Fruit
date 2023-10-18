@@ -1,0 +1,30 @@
+15.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+chan
+bounds:908,1359,489,576
+rotate:90
+chan copy
+bounds:196,645,504,654
+dau
+bounds:196,285,358,447
+rotate:90
+ham tren
+bounds:702,1022,277,124
+offsets:15,0,312,139
+rotate:90
+ham, duoi
+bounds:2,2,279,187
+offsets:37,12,328,238
+rotate:90
+no
+bounds:1486,1723,152,125
+offsets:0,0,160,125
+tay
+bounds:908,1850,192,1016
+rotate:90
+tay copy 2
+bounds:2,283,192,1016
+than
+bounds:2,1301,904,741

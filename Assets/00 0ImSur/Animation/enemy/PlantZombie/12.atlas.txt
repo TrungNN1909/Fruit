@@ -1,0 +1,14 @@
+12.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+dau 12
+bounds:1320,427,559,363
+tay p 12vv
+bounds:2,2,492,788
+offsets:47,0,539,830
+tay tr 12
+bounds:496,8,415,782
+offsets:0,0,420,828
+than 12
+bounds:913,85,405,705

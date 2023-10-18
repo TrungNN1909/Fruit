@@ -1,0 +1,279 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aaf01c7d87a634c11893b277f0609a07, type: 3}
+  m_Name: LuckShopItemListAsset
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 21300000, guid: 7bf96bdde40db43239eebc28e8f9f166, type: 3}
+    - {fileID: 120302190, guid: d2a9f05fef69e4493bbc9713e4c7bdbe, type: 3}
+    - {fileID: 21300000, guid: 3eb80d3e84e2242acb03fa28137a26c3, type: 3}
+    - {fileID: 21300000, guid: ccaf8678bba89401faaec129fccf61b3, type: 3}
+    - {fileID: 21300000, guid: 6358d7a5e6aba482c9948d021a2080f2, type: 3}
+    - {fileID: 21300000, guid: 997755998348d47c8b0dc8c5880fdcd0, type: 3}
+    - {fileID: 21300000, guid: 881a51b24c9024fba8bcedeb3d3cd894, type: 3}
+    - {fileID: 21300000, guid: 049cdf05b7d77414d99e49560d27aa4e, type: 3}
+    - {fileID: 21300000, guid: 502d0f3cbf0cf404ea1e69e35696997f, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: data
+      Entry: 7
+      Data: 0|Unity.Plastic.Antlr3.Runtime.Misc.ListStack`1[[Unicorn.LuckyShopItemInfo,
+        Assembly-CSharp]], Unity.Plastic.Antlr3.Runtime
+    - Name: 
+      Entry: 12
+      Data: 13
+    - Name: 
+      Entry: 7
+      Data: 1|Unicorn.LuckyShopItemInfo, Assembly-CSharp
+    - Name: itemID
+      Entry: 3
+      Data: 0
+    - Name: itemAvata
+      Entry: 10
+      Data: 0
+    - Name: coin
+      Entry: 3
+      Data: 0
+    - Name: description
+      Entry: 1
+      Data: Increase Atk by 5%
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 2|Unicorn.LuckyShopItemInfo, Assembly-CSharp
+    - Name: itemID
+      Entry: 3
+      Data: 1
+    - Name: itemAvata
+      Entry: 10
+      Data: 0
+    - Name: coin
+      Entry: 3
+      Data: 0
+    - Name: description
+      Entry: 1
+      Data: Increase Atk by 10%
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 3|Unicorn.LuckyShopItemInfo, Assembly-CSharp
+    - Name: itemID
+      Entry: 3
+      Data: 2
+    - Name: itemAvata
+      Entry: 10
+      Data: 1
+    - Name: coin
+      Entry: 3
+      Data: 0
+    - Name: description
+      Entry: 1
+      Data: Increase Fire Rate by 10%
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|Unicorn.LuckyShopItemInfo, Assembly-CSharp
+    - Name: itemID
+      Entry: 3
+      Data: 3
+    - Name: itemAvata
+      Entry: 10
+      Data: 1
+    - Name: coin
+      Entry: 3
+      Data: 0
+    - Name: description
+      Entry: 1
+      Data: Increase Fire Rate by 15%
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 5|Unicorn.LuckyShopItemInfo, Assembly-CSharp
+    - Name: itemID
+      Entry: 3
+      Data: 4
+    - Name: itemAvata
+      Entry: 10
+      Data: 2
+    - Name: coin
+      Entry: 3
+      Data: 0
+    - Name: description
+      Entry: 1
+      Data: Increase/Heal HP by 10%
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 6|Unicorn.LuckyShopItemInfo, Assembly-CSharp
+    - Name: itemID
+      Entry: 3
+      Data: 5
+    - Name: itemAvata
+      Entry: 10
+      Data: 2
+    - Name: coin
+      Entry: 3
+      Data: 0
+    - Name: description
+      Entry: 1
+      Data: Increase/Heal HP by 15%
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 7|Unicorn.LuckyShopItemInfo, Assembly-CSharp
+    - Name: itemID
+      Entry: 3
+      Data: 6
+    - Name: itemAvata
+      Entry: 10
+      Data: 3
+    - Name: coin
+      Entry: 3
+      Data: 10000
+    - Name: description
+      Entry: 1
+      Data: Atk increases by 25% for the first 10s of each wave.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 8|Unicorn.LuckyShopItemInfo, Assembly-CSharp
+    - Name: itemID
+      Entry: 3
+      Data: 7
+    - Name: itemAvata
+      Entry: 10
+      Data: 4
+    - Name: coin
+      Entry: 3
+      Data: 10000
+    - Name: description
+      Entry: 1
+      Data: FireRate increases by 25% for the first 10s of each wave.
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 9|Unicorn.LuckyShopItemInfo, Assembly-CSharp
+    - Name: itemID
+      Entry: 3
+      Data: 8
+    - Name: itemAvata
+      Entry: 10
+      Data: 5
+    - Name: coin
+      Entry: 3
+      Data: 5000
+    - Name: description
+      Entry: 1
+      Data: Increase crit rate by 5%
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 10|Unicorn.LuckyShopItemInfo, Assembly-CSharp
+    - Name: itemID
+      Entry: 3
+      Data: 9
+    - Name: itemAvata
+      Entry: 10
+      Data: 5
+    - Name: coin
+      Entry: 3
+      Data: 10000
+    - Name: description
+      Entry: 1
+      Data: Increase crit rate by 10%
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 11|Unicorn.LuckyShopItemInfo, Assembly-CSharp
+    - Name: itemID
+      Entry: 3
+      Data: 10
+    - Name: itemAvata
+      Entry: 10
+      Data: 6
+    - Name: coin
+      Entry: 3
+      Data: 0
+    - Name: description
+      Entry: 1
+      Data: Double Shoot
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 12|Unicorn.LuckyShopItemInfo, Assembly-CSharp
+    - Name: itemID
+      Entry: 3
+      Data: 11
+    - Name: itemAvata
+      Entry: 10
+      Data: 7
+    - Name: coin
+      Entry: 3
+      Data: 0
+    - Name: description
+      Entry: 1
+      Data: Get 1 more life
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 13|Unicorn.LuckyShopItemInfo, Assembly-CSharp
+    - Name: itemID
+      Entry: 3
+      Data: 12
+    - Name: itemAvata
+      Entry: 10
+      Data: 8
+    - Name: coin
+      Entry: 3
+      Data: 0
+    - Name: description
+      Entry: 1
+      Data: SplitShoot
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 

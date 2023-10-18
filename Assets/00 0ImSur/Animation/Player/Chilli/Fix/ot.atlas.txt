@@ -1,0 +1,17 @@
+ot.png
+size:512,512
+filter:Linear,Linear
+pma:true
+chan sau ot_
+bounds:280,134,62,79
+chan trc ot
+bounds:280,215,63,80
+offsets:0,0,65,80
+mat ot
+bounds:280,297,169,208
+tay sau ot_
+bounds:451,429,57,76
+tay tr ot_
+bounds:345,219,57,76
+than ot
+bounds:2,2,276,503

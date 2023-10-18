@@ -1,0 +1,37 @@
+tao.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+chan_sau_tao
+bounds:910,310,60,79
+offsets:1,2,65,82
+chan_trc_tao
+bounds:910,391,63,79
+offsets:1,2,65,82
+mat_tao
+bounds:447,294,224,176
+nuoc mat 1
+bounds:292,206,153,264
+offsets:0,0,154,264
+nuoc mat 1 copy
+bounds:447,156,136,236
+offsets:1,0,137,236
+rotate:90
+nuoc mat 2
+bounds:2,2,162,263
+offsets:0,0,163,264
+rotate:90
+nuoc mat 2 copy
+bounds:673,326,144,235
+offsets:1,0,145,236
+rotate:90
+tay_sau_tao
+bounds:292,150,54,76
+offsets:1,1,59,78
+rotate:90
+tay_trc_tao
+bounds:370,128,57,76
+offsets:1,1,59,78
+than_tao
+bounds:2,166,288,304
+offsets:0,1,288,305
